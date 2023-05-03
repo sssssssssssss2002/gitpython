@@ -11,8 +11,8 @@ import pandas as pd
 from decimal import Decimal
 from urllib.parse import urlencode
 # Keys 업비트에서 키를 발급받아야함
-access_key = 'dz6naqFUABmOEw2S7WiCxwK5N3DFQoiubnC7pkXO'
-secret_key = 'SkhNJhxE0g4griaW4G47XyxaWzevWCspxGnjR38K'
+access_key = 'IpXykP3HxVCflGxr5M0BDYGYbhYyTkqM0X6HZxe2'
+secret_key = 'EzEMnSTorF2o5XxMRS1SyA8lXUrRk2q1wLhFXkzJ'
 server_url = 'https://api.upbit.com'
 
 
